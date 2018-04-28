@@ -18,10 +18,10 @@ cp Makefile.config.example Makefile.config
 gedit Makefile.config
 ```
 修改下列部分：
-1.
-2.
-3.
-4.
+1。 
+2。 
+3。 
+4。 
 然后编译：
 ```
 make all -j128
